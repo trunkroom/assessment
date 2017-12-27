@@ -2,4 +2,4 @@
 あなたのいいところ診断ゲーム
 
 
-hello
+https://trunkroom.github.io/assessment/assessment.html
